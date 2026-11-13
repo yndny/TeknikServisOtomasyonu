@@ -1,0 +1,9 @@
+﻿# Visual Studio gecici ve derleme dosyalari
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+Ayarlar.xml
